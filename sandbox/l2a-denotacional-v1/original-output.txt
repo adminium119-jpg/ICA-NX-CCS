@@ -1,0 +1,8 @@
+A     : maria entrego un libro a juan        -> H = ('maria', 'juan', 'libro', 1)
+B     : juan recibio un libro de maria       -> H = ('maria', 'juan', 'libro', 1)
+C     : maria no entrego el libro a juan     -> H = ('maria', 'juan', 'libro', -1)
+D     : juan entrego un libro a maria        -> H = ('juan', 'maria', 'libro', 1)
+OOV_1 : elena entrego una moneda a carlos    -> H = ('elena', 'carlos', 'moneda', 1)
+OOV_2 : carlos recibio una moneda de elena   -> H = ('elena', 'carlos', 'moneda', 1)
+Exactitud OOD entidades/objetos in�ditos (N=200): 1.000
+Estado compuesto final: {'llave': 'carlos'}
