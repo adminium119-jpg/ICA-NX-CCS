@@ -1,0 +1,77 @@
+{
+  "candidate_programs": 12,
+  "train": 80,
+  "loss_first_last": [
+    1.589026915173974,
+    0.0
+  ],
+  "arms": {
+    "rules": {
+      "new_entities": {
+        "cases": 80,
+        "correct_transition": 80,
+        "wrong": 0,
+        "hold": 0,
+        "multiple_programs_retained": 0,
+        "mean_programs": 1.0
+      },
+      "added_modifier": {
+        "cases": 80,
+        "correct_transition": 80,
+        "wrong": 0,
+        "hold": 0,
+        "multiple_programs_retained": 0,
+        "mean_programs": 1.0
+      }
+    },
+    "role_supervised": {
+      "new_entities": {
+        "cases": 80,
+        "correct_transition": 80,
+        "wrong": 0,
+        "hold": 0,
+        "multiple_programs_retained": 0,
+        "mean_programs": 1.0
+      },
+      "added_modifier": {
+        "cases": 80,
+        "correct_transition": 80,
+        "wrong": 0,
+        "hold": 0,
+        "multiple_programs_retained": 0,
+        "mean_programs": 1.0
+      }
+    },
+    "denotational": {
+      "new_entities": {
+        "cases": 80,
+        "correct_transition": 80,
+        "wrong": 0,
+        "hold": 0,
+        "multiple_programs_retained": 40,
+        "mean_programs": 3.5
+      },
+      "added_modifier": {
+        "cases": 80,
+        "correct_transition": 80,
+        "wrong": 0,
+        "hold": 0,
+        "multiple_programs_retained": 40,
+        "mean_programs": 3.5
+      }
+    }
+  },
+  "seconds": 0.03422919999866281,
+  "controls": {
+    "latent_ignores_gold": true,
+    "train_test_entities_disjoint": true
+  },
+  "unknown_verb": {
+    "cases": 20,
+    "correct_transition": 0,
+    "wrong": 0,
+    "hold": 20,
+    "multiple_programs_retained": 0,
+    "mean_programs": 0.0
+  }
+}
