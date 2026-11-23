@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-23",
+  "stage": "sandbox-calculation-evidence-gate-implemented",
+  "unit_tests": 43,
+  "persisted_verified_artifacts": 342,
+  "initial_cases": 336,
+  "corrections": 6,
+  "indexed_snapshot_parity": true,
+  "active_projection_hash": "baf93739550e9d7d93a70be83736eac2d0279174731da7df47f109995558250e",
+  "sandbox_coordinate": [
+    "C",
+    "L1",
+    "P3"
+  ],
+  "authority": "HOLD",
+  "index_same_work_p50_ms": {
+    "baseline": 23.4651,
+    "indexed": 10.5717
+  },
+  "limits": [
+    "finite synthetic corpus and predefined operators",
+    "sandbox coordinate mapping",
+    "external source authenticity pending",
+    "no general language-learning improvement established"
+  ],
+  "evidence_scope": "Previously executed local experimental gate, inspected on 2026-11-23. Public checkpoint does not include full runtime."
+}
