@@ -21,3 +21,12 @@ Cada ruta se materializa al incorporar su primer documento o artefacto. Para cad
 Distinguir especificación, hipótesis, decisión, observación de código, resultado reportado y resultado reproducido. Un resultado reproducido declara entradas, versión, comando, salida y diferencias. Un gate conserva su fecha y dominio. Un PASS contractual solo cubre las condiciones ensayadas. Un ensayo pendiente se registra como NOT RUN. Si falta evidencia para decidir, conservar HOLD y el requisito que permitiría resolverlo.
 
 Las propuestas se revisan por PR. Publicar únicamente material técnico autorizado para este repositorio público. Excluir datos privados, identificadores de acceso, adjuntos restringidos y material sensible de ramas fuera de alcance. Una revisión documental carece de autoridad para modificar el Core canónico o efectuar promociones, que requieren su propio proceso.
+
+## Checkpoint experimental del 23 de noviembre de 2026
+
+- [Estado y límites](docs/checkpoints/2026-11-23.md)
+- [Roadmap y gates propuestos](docs/roadmap/2026-11-23.md)
+- [Revisión contrastada de Gemini](docs/reviews/gemini-2026-11-23.md)
+- [Métricas curadas del gate](evidence/2026-11-23/summary.json)
+
+Estado de autoridad: HOLD. La evidencia completa permanece en el archivo experimental privado. Este checkpoint contiene documentación y métricas curadas.
