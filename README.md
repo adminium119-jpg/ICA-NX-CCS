@@ -2,6 +2,12 @@
 
 Índice de ingeniería para especificaciones y experimentos reproducibles de NX-CCS. El repositorio se inicia como espacio de documentación. El código experimental entra por revisión con procedencia y alcance explícitos.
 
+## Estado verificado — 26 de noviembre de 2026
+
+[Predictor de snapshots y array multietapa](docs/architecture/snapshot-prediction-2026-11-26.md): estados conjuntos correlacionados, etapas tipadas, masa pendiente y memoria revisable. 38 pruebas nuevas y 49 de regresión; contraste con un enumerador separado en 80 modelos pequeños. [Resultados](evidence/snapshot-results-2026-11-26.json) · [Roadmap](docs/roadmap/snapshots-2026-11-26.md).
+
+Relaciones y pesos declarados; aprendizaje desde evidencia externa, integración del ingreso semántico y adquisición externa siguen pendientes. Publicación documental, sin cambio al Core ni promoción. Los ensayos históricos se conservan con sus fechas y alcance.
+
 ## Organización
 
 | Ruta | Contenido |
