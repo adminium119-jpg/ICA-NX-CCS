@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-26",
+  "status": "FINITE_DECLARED_MODEL_SANDBOX",
+  "checks": [
+    {
+      "module": "test_array",
+      "tests": 38,
+      "exit": 0
+    },
+    {
+      "module": "test_candidates",
+      "tests": 15,
+      "exit": 0
+    },
+    {
+      "module": "test_skills",
+      "tests": 34,
+      "exit": 0
+    }
+  ],
+  "reference_models": 80,
+  "agents_completed": 4,
+  "agents_executed_tests": false,
+  "cold_restart_identical": true,
+  "learned_relation_weights": false,
+  "external_search_executed": false,
+  "canonical_promotion": "DENIED",
+  "archive_sha256": "012c6ac82d120a30367001f5ed5c662b2978c98c9718f3cd0b0e7f4be5e881da"
+}
